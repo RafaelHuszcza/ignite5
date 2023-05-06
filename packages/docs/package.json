@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy-storybook": "storybook -to-ghpages",
     "dev": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
@@ -19,6 +19,7 @@
     "@storybook/manager-api": "^7.0.9",
     "@storybook/react": "^7.0.9",
     "@storybook/react-vite": "^7.0.9",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/testing-library": "^0.0.14-next.2",
     "@storybook/theming": "^7.0.9",
     "prop-types": "^15.8.1",
