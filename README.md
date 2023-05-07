@@ -8,4 +8,8 @@
 - [X] Checkbox
 - [X] Avatar
 - [X] MultiStep
-X
+
+
+npm run changeset
+npm run version-packages
+npm run  release
