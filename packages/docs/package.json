@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@learning-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,9 +28,9 @@
     "storybook": "^7.0.9"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@learning-ignite-ui/eslint-config": "*",
+    "@learning-ignite-ui/tokens": "*",
+    "@learning-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.0.9",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
