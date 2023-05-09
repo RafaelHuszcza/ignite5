@@ -1,5 +1,11 @@
 # @learning-ignite-ui/tokens
 
+## 4.1.0
+
+### Minor Changes
+
+- 4b68008: No summary
+
 ## 4.0.0
 
 ### Major Changes
