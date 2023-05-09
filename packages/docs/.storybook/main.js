@@ -13,7 +13,7 @@ const config = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/ignite5/'
+      config.base = '/'
     }
 
     return config
